@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алина Бернгарт](https://up.htmlacademy.ru/react/5/user/1095379).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Турецкий](https://htmlacademy.ru/profile/id439019).
 
 ---
 
